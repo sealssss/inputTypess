@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #f3f4f6;
+}
+label {
+    display: block;
+    line-height: 1.25rem;
+    font-weight: 500;
+    font-size: 14px;
+    color: #374151;
+}
+
